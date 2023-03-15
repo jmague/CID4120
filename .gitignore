@@ -1,9 +1,0 @@
-**/.DS_Store
-**/.ipynb_checkpoints
-**/.virtual_documents
-**/*.pptx
-
-cours2/*.txt
-!cours2/*LAvare-re.txt
-
-cours3/frequences.csv
